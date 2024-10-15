@@ -10,4 +10,6 @@ Responsive design built using HTML and CSS.
 
 Easy integration with the goQR.me API for dynamic QR code generation.
 
-QR Code API: https://goqr.me/api/
+# Acknowledgments
+
+goQR.me API for providing the QR code generation functionality.
